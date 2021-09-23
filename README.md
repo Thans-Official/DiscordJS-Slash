@@ -17,3 +17,13 @@ Eğer botu glitch üzerinden hostluyorsanız ve projeniz kilitli değilse `.env`
 - un voice mute <kullanıcı>
 - temp voice mute <kullanıcı> <sebep>
 - nick <kullanıcı> <isim>
+- taşı <kullanıcı> <kanal>
+- git <kullanıcı>
+
+# Register Komutları
+- erkek
+- kadın
+- kayıt-sil
+- kayıt-bilgi
+- isim
+- kullanıcı-bilgi

@@ -1,2 +1,7 @@
 # DiscordJS-Slash
-Discord.js Slash Commands
+
+Discord.js Slash Komutları
+
+# Komutlar
+
+## Moderasyon

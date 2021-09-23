@@ -1,6 +1,6 @@
 # DiscordJS-Slash
 
-Altyapı Thans [Thâns#3180] Tarafından Oluşturulmuştur. Kodlar Çalıntı Değildir!
+Altyapı [ Thâns#3180 ] Tarafından Oluşturulmuştur. Kodlar Çalıntı Değildir!
 
 Botun datalarını `config.json` dosyasından değiştirebilirsiniz.
 

@@ -30,3 +30,5 @@ Eğer botu glitch üzerinden hostluyorsanız ve projeniz kilitli değilse `.env`
 - kayıt-bilgi
 - isim
 - kullanıcı-bilgi
+
+### Eklenecek...

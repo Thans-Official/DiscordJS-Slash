@@ -1,7 +1,19 @@
 # DiscordJS-Slash
 
-Discord.js Slash Komutları
+Altyapı Thâns#3180 Tarafından Oluşturulmuştur. Kodlar Çalıntı Değildir!
 
-# Komutlar
+Botun datalarını `config.json` dosyasından değiştirebilirsiniz.
 
-## Moderasyon
+Eğer botu glitch üzerinden hostluyorsanız ve projeniz kilitli değilse `.env` dosyasına TOKEN={token} yazıp `index.js` dosyasındaki `TOKEN` yazan yeri `process.env.TOKEN` yazıp projenize izinsiz giren kişilerin tokeninizi görmesini engelleyebilirsiniz.
+
+# Moderasyon Komutları
+- ban <kullanıcı> <sebep>
+- unban <kullanıcı>
+- kick <kullanıcı> <sebep>
+- chat mute <kullanıcı> <süre> <sebep>
+- un chat mute <kullanıcı>
+- temp chat mute <kullanıcı> <sebep>
+- voice mute <kullanıcı> <süre> <sebep>
+- un voice mute <kullanıcı>
+- temp voice mute <kullanıcı> <sebep>
+- nick <kullanıcı> <isim>

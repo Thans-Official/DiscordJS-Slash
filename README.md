@@ -4,7 +4,7 @@ Altyapı [ Thâns#3180 ] Tarafından Oluşturulmuştur. Kodlar Çalıntı Değil
 
 Botun datalarını `config.json` dosyasından değiştirebilirsiniz.
 
-Eğer botu glitch üzerinden hostluyorsanız ve projeniz kilitli değilse `.env` dosyasına ***TOKEN={botun tokeni}*** yazıp `index.js` dosyasındaki `TOKEN` yazan yeri `process.env.TOKEN` yazıp projenize izinsiz giren kişilerin tokeninizi görmesini engelleyebilirsiniz.
+Eğer botu glitch üzerinden hostluyorsanız ve projeniz kilitli değilse `.env` dosyasına **TOKEN={botun tokeni}** yazıp `index.js` dosyasındaki `TOKEN` yazan yeri `process.env.TOKEN` yazıp projenize izinsiz giren kişilerin tokeninizi görmesini engelleyebilirsiniz.
 
 # Moderasyon Komutları
 - ban <kullanıcı> <sebep>

@@ -1,5 +1,6 @@
 ### BOT HENÜZ YAPIM AŞAMASINDADIR!
 
+
 # DiscordJS-Slash
 
 Altyapı  **Thâns#3180**  Tarafından Oluşturulmuştur. Kodlar Çalıntı Değildir!

@@ -32,20 +32,8 @@ Eğer botu glitch üzerinden hostluyorsanız ve projeniz kilitli değilse `.env`
 - kullanıcı bilgi
   
 # Guard Komutları
-  *Komutların hepsi ayarlanabilir. Eğer log kanalını ayarlamazsanız mesajları sunucu sahibine atacaktır.*
-- log <kanal>
-- kanal koruma <aç / kapat>
-- kanal değiştirme <aç / kapat>
-- rol koruma <aç / kapat>
-- role değiştirme <aç / kapat>
-- webhook koruma <aç / kapat>
-- sağ tık ban engel <aç / kapat>
-- sağ tık kick engel <aç / kapat>
 - küfür engel <aç / kapat>
-- rol verme engel <aç / kapat>
-- rol alma engel <aç / kapat>
-- sticker koruma <aç / kapat> (yeni)
 - bot koruma <aç / kapat>
-- davet koruma <aç / kapat>
-
+- reklam engel <aç / kapat>
+  
 ### Eklenecek...
